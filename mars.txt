@@ -1,4 +1,3 @@
-come changes that prevent checkout
 we are modifying this line
 more changes
 even more changes.......
