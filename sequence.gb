@@ -1,0 +1,48 @@
+LOCUS       AY291072                 300 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Anas platyrhynchos BMAL1 (Bmal1) gene, partial cds.
+ACCESSION   AY291072
+VERSION     AY291072.1
+KEYWORDS    .
+SOURCE      Anas platyrhynchos (mallard)
+  ORGANISM  Anas platyrhynchos
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Anseriformes;
+            Anatidae; Anas.
+REFERENCE   1  (bases 1 to 300)
+  AUTHORS   Fidler,A.E. and Gwinner,E.
+  TITLE     Comparative analysis of avian BMAL1 and CLOCK protein sequences: a
+            search for features associated with owl nocturnal behaviour
+  JOURNAL   Comp. Biochem. Physiol. B, Biochem. Mol. Biol. 136 (4), 861-874
+            (2003)
+   PUBMED   14662308
+REFERENCE   2  (bases 1 to 300)
+  AUTHORS   Fidler,A.E. and Gwinner,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2003) Avian Circadian and Circannual Rhythms, Max
+            Planck Research Center for Ornithology, Seewiesen, Starnberg
+            D-82319, Germany
+FEATURES             Location/Qualifiers
+     source          1..300
+                     /organism="Anas platyrhynchos"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8839"
+     gene            <1..>300
+                     /gene="Bmal1"
+     mRNA            <1..>46
+                     /gene="Bmal1"
+                     /product="BMAL1"
+     CDS             <1..>46
+                     /gene="Bmal1"
+                     /codon_start=2
+                     /product="BMAL1"
+                     /protein_id="AAQ55073.1"
+                     /translation="TSTPPPDTSSPGNKK"
+ORIGIN      
+        1 taccagcaca ccaccacctg atacatcctc cccaggaaac aagaaggtaa gaacaatctg
+       61 tacagtcttg tagcagtagt gacacacaaa tcgtgttata gaattacggt gttgaacttt
+      121 taactgcttg gctgaaaagt ttgacagcag gtcaaagtat tcttggagag ggtgggagga
+      181 aaatcctgtt acagtagtct gtaaagtgca gagaccaaca gttcttaagc actgacagct
+      241 ttggaaatcc acatgctctt tactttttaa aaaaacaaac aaaaaccaaa cgaacaaaaa
+//
+
